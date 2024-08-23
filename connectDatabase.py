@@ -2,7 +2,7 @@ from sshtunnel import SSHTunnelForwarder
 import mysql.connector
 
 # SSH connection details
-ssh_host = '192.168.241.10'
+ssh_host = '192.168.56.34'
 ssh_username = 'thaituan'
 ssh_password = 'tuan89'
 
